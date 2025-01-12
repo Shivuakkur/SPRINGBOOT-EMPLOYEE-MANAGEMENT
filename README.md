@@ -89,4 +89,25 @@ The project follows the typical Spring Boot structure with some customizations. 
 4. Run the application:
        ./mvnw spring-boot:run
 
+5.The application should now be running on http://localhost:8080.
+
+Usage:
+Navigate to http://localhost:8080 to access the application.
+Use the employee management features to register, view, edit, and update employee data.
+
+License:
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contributing:
+Feel free to fork this repository and submit pull requests. Any contributions are welcome.
+
+Acknowledgements:
+Spring Boot framework for simplifying the development process.
+JPA for easy database interactions.
+
+
+
+Feel free to modify and add any additional information as necessary!
+
+
 
